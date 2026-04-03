@@ -1,0 +1,50 @@
+Ajay Chinthakindi
+LinkedIn :  linkedin.com/in/chinthakindi-ajay-980244283/                                 Email: ajaychinthakindi25@gmail.com GitHub:github.com/Ajaychinthakindi                                    Mobile: +91 8247605336
+SKILL  SUMMARY
+Languages:C, C++, Java, Python
+Frameworks:HTML, CSS
+Tools/Platforms:MySQL, Git, GitHub, Visual Studio Code, Selenium, TestNG, JUnit
+Soft Skills:Problem-Solving, Team Player, Leadership,  Adaptability 
+PROJECTS
+    Smart Agriculture Support System (Crop Recommendation + Soil Analysis) | GitHub
+                                                                                                                                                                           Nov 2025 – Dec 2025 
+Developed an intelligent agriculture support system using Machine Learning to analyze soil parameters
+(pH, NPK, moisture) and environmental factors to recommend the most suitable crop for higher productivity.
+Implemented data preprocessing, soil-quality evaluation, and a crop recommendation engine using Random 
+Forest with a user-friendly dashboard to visualize inputs, and predicted crops.
+Achieved 85%-95% accurate crop predictions, provided actionable farming suggestions, and helped
+reduce crop selection risks-supporting precision agriculture and sustainable farming practices.
+    AI-Powered Traffic Violation Detection System | GitHub                                                     Nov 2025 – Dec 2025                                                           
+Developed an AI-powered Traffic Violation Detection System using YOLO and OpenCV to automatically detect
+No-helmet riding, triple riding, signal jumping, and number plate extraction.
+Implemented real-time object detection, violation classification, and Automated Number Plate Recognition 
+(ANPR) using Tesseract OCR and Python.
+Generated automated violation reports with 85-95% accuracy, enabling faster enforcement and supporting smart City traffic monitoring.
+TRAINING
+Summer Training | Cipher Schools                                                                                                      Jun 2025 - Jul 2025
+    Completed an intensive summer Training Program in C++ and Data Structures, strengthening  
+      Programming, Fundamental and problem-solving skills through hands-on implementation.
+   Gained practical expertise in arrays, linked lists, stacks, queues, trees, and searching & sorting algorithms,
+      Improving algorithmic efficiency and logical optimization capabilities  by 70%.
+   Developed multiple DSA-based programs and mini-projects using OOP principles, enhancing code 
+      Structuring, debugging skills, and execution performance by 65%.
+ 
+CERTIFICATIONS
+Summer Training in C++ & Data Structures | Cipher Schools                                                                              July 2025
+Computational Theory: Language Principle and automata Theory| InfosysSpringboard                            Aug 2025
+Computer Communications Specialization | Coursera
+                
+ACHIEVEMENTS
+Solved 100+ problems across platforms like LeetCode and GeeksforGeeks, strengthening problem-solving and algorithmic thinking skills | LPUApr 2025
+ Secured 8th Position among 200+ TeamsNov 2025
+                In a university-level hackathon focused on innovation & problem solving
+EDUCATION
+     Lovely Professional University                                                                                                                             Punjab, India
+            Bachelor of Technology - Computer Science and Engineering                  Since Aug 2023
+            CGPA: 7.00
+     Vikas Junior College                                                                                                               Peddapalli, Telangana
+            Intermediate – MPC Jun 2021 – Mar 2023
+           Percentage: 84
+      ZPHS Jayyaram                                                                                                                      Jayyaram, Telangana
+         Metriculation: 100                                                                                                                   June 2020 – Mar 2021 
+                                                                                                                                                                

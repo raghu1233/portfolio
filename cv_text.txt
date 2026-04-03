@@ -1,0 +1,64 @@
+KORADA RAGHU RAM 
+Linkedin:  www.linkedin.com/in/raghuram6/                                                           Email:raghuramkorada13@gmail.com 
+Github:     github.com/raghu1233                                                                                              Mobile:  +91-8309615949 
+  
+SKILLS  
+ 
+• Languages:  C, C++, Java, Python, JavaScript, SQL  
+• Frameworks:  HTML, CSS, Selenium, PyTest, TestNG, CyPress 
+• Tools/Platforms:  Jira, JMeter, K6,Testrail, GitHub, Appium, SoapUI 
+• Soft Skills:    Leadership, Problem Solving, Adaptability, Time Management, Project Management   
+  
+PROJECTS  
+ 
+• Smart Waste Management System                                                                                                                  Jun’25  
+Tech: HTML, CSS, JavaScript  
+Developed a Smart Waste Management System using IoT sensors and data analytics to optimize waste collection, 
+reduce operational costs, and promote sustainable practices.  
+       
+• Saloon and Spa Website                                                                                                                                   Oct’24   
+Tech: HTML, CSS, JavaScript  
+Developed a modern and responsive Salon & Spa website featuring service listings, pricing, appointment booking, 
+and an elegant UI for enhanced client experience. 
+ 
+ TRAINING  
+ 
+• Data Analytics Essentials: SQL, Python, Power BI, Tableau and Excel          Jun’25 - Jul’25  
+• About: Acquired hands-on experience in data analytics tools and techniques, applying Python for 
+programming and analysis, SQL for database management, and Power BI and Tableau for interactive 
+dashboard development. Utilized Excel for data preprocessing, cleaning, and summarizat ion, reinforcing its 
+significance in analytics workflows.  
+• Tech stack used: SQL, Python, Power BI, Tableau and Excel  
+  
+CERTIFICATES  
+ 
+• Cloud Computing | NPTEL                                                         Jul’25 – Nov’25   
+• TCP/IP and Advanced Topics | Coursera                                                                                                     Nov’24  
+• The Bits and Bytes of Computer Networking | Coursera                                                                           Sep’24  
+• Introduction to Hardware and Operating Systems | Coursera                                                                   Sep’24  
+• Mastering C | CSE Pathashala                                                                                                              Feb’24 – Mar’24  
+• Responsive Web Design | FreeCodeCamp                                                                                                   Oct’23  
+  
+ACHIEVEMENTS  
+ 
+• CyberSec Symposium 2.0                                                                                                                                 Apr’24  
+Awarded a certificate for diligently attending and being a part of CyberSec Symposium 2.0, North India’s largest 
+Cyber Security Conference, organized by iGen Community in collaboration with the School of Computer Science & 
+Engineering, Lovely Professional University. Event supported by Quick Heal, CompTIA, and other security partners.  
+  
+• NSS Volunteer                                                                                                                                          Since Jan’24 
+Actively participated in community service and social development activities as part of the National Service Scheme 
+(NSS).  
+  
+• NGO Member – Conserve Earth Foundation                                                                                                     Jul’24  
+Actively contributed to environmental awareness and sustainability initiatives as a member of the Conserve Earth 
+Foundation.  
+  
+EDUCATION  
+ 
+• Lovely Professional University                                                                                                       Phagwara, Punjab 
+Bachelor of Technology - Computer Science and Engineering; CGPA: 6.49                                            Since Aug’23  
+• Tirumala Junior College                                                                                         Visakhapatnam, Andhra Pradesh  
+Intermediate; Percentage: 94.4%                                                                                              Jun’21 – May’23  
+•  Vijnana Vihara Residential High School                                                                 Visakhapatnam, Andhra Pradesh 
+Matriculation; Percentage: 68%                                                                                                 Jun’20 – Apr’21  
